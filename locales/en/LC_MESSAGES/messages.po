@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: en\n"
+
+msgid "مرحباً بك في المجموعة!"
+msgstr "Welcome to the group!"
+
+msgid "يجب الاشتراك في القنوات التالية:"
+msgstr "You must subscribe to these channels:"
+
+msgid "⚠️ تحذير لـ {user}\nالسبب: {reason}\nعدد التحذيرات: {warns}/{max_warns}"
+msgstr "⚠️ Warning for {user}\nReason: {reason}\nWarnings: {warns}/{max_warns}"
+
+msgid "🚨 تم حظر {user} بسبب تجاوز عدد التحذيرات"
+msgstr "🚨 {user} has been banned for exceeding warnings limit"
+
+msgid "✅ تم حظر المستخدم بنجاح"
+msgstr "✅ User banned successfully"
+
+msgid "❌ حدث خطأ أثناء محاولة حظر المستخدم"
+msgstr "❌ Error while trying to ban user"
